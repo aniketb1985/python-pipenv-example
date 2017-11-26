@@ -2,6 +2,8 @@
 
 [![Add to Buildkite](https://buildkite.com/button.svg)](https://buildkite.com/new)
 
+[![Build status](https://badge.buildkite.com/c7ee34dd9052931d2ea8d4d6a955c6f3a3619003d8e4c8604a.svg)](https://buildkite.com/myorg-5/python-example)
+
 This repository is an example on how to test a [Python](https://python.org) project using [Buildkite](https://buildkite.com/) and [pipenv](https://github.com/kennethreitz/pipenv).
 
 Note: this example assumes your Buildkite Agent machine has Python and pipenv already instealled. See the [Python Docker Example](https://github.com/buildkite/python-docker-example) for running your Python project on any agent machine that has only Docker installed.
